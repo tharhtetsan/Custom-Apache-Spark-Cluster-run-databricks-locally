@@ -1,8 +1,9 @@
-pyspark==3.5.2
+setuptools
+numpy==1.26.4
+pyspark==3.5.3
 fastapi
 uvicorn
 scikit-learn
 hyperopt
 mlflow
-setuptools
 tensorflow
