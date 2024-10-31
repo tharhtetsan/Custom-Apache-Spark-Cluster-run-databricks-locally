@@ -1,7 +1,7 @@
 from pyspark.sql import SparkSession
 from pyspark.ml.regression import LinearRegression
 from pyspark.ml.feature import VectorAssembler
-
+import mlflow
 
 spark = SparkSession.builder.appName("spark_sample_train").master("spark://spark-master:7077") \
         .getOrCreate()

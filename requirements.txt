@@ -6,4 +6,6 @@ uvicorn
 scikit-learn
 hyperopt
 mlflow
+seaborn
+scikit-learn
 tensorflow
