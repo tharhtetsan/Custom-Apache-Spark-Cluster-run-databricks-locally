@@ -16,3 +16,4 @@ docker compose up --build
 - [6. Hyperparameter tuning using Spark Cluster ](./jobs/v6_hper_param.ipynb)
 - [7. TF tensor input model flavors with MLflow Generic Model](./jobs/mlflow_model_generic_flavor_2.ipynb)
 - [8. Distibuted Training With Hyperparameter tuning using Hyperopt and MLflow](./jobs/distibuted_trainingAnd_params_tuning_with_mlflow.ipynb)
+- [9. Distibuted Training With Hyperparameter tuning and Generic Model Flavors](./jobs/ds_with_mlflow_flavor.ipynb)
