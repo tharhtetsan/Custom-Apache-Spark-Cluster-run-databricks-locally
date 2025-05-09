@@ -1,1 +1,1 @@
-{"epochs": 6, "l1_activation": "tanh", "l1_dropout": 0.6, "l1_noNode": 64, "optimizer": "RMSprop"}
+{"epochs": 6, "l1_activation": "relu", "l1_dropout": 0.3, "l1_noNode": 64, "optimizer": "SGD"}

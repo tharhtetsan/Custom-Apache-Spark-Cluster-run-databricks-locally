@@ -14,9 +14,11 @@ docker compose up --build
 - [4. MLflow on Spark](./jobs/v4_mlflow_onspark.ipynb)
 - [5. Sklearn model and TF model flavors with MLflow Generic Model ](./jobs/mlflow_model_generic_flavor_1.ipynb)
 - [6. Hyperparameter tuning using Spark Cluster ](./jobs/v6_hper_param.ipynb)
-- [7. TF tensor input model flavors with MLflow Generic Model](./jobs/mlflow_model_generic_flavor_2.ipynb)
-- [8. Distibuted Training With Hyperparameter tuning using Hyperopt and MLflow](./jobs/distibuted_trainingAnd_params_tuning_with_mlflow.ipynb)
-- [9. Distibuted Training With Hyperparameter tuning and Generic Model Flavors](./jobs/ds_with_mlflow_flavor.ipynb)
+- [7. Simple Distributed Training ](./jobs/v7_simple_ds_training.ipynb)
+- [8. MLflow model Generic Flavor - 1 ](./jobs/v8_mlflow_model_generic_flavor_1.ipynb)
+- [9. MLflow model Generic Flavor - 2 ](./jobs/v9_mlflow_model_generic_flavor_2.ipynb)
+- [10.  Distributed Training with MLflow  Generic Flavor](./jobs/v10_ds_with_mlflow_flavor.ipynb)
+
 
 
 
