@@ -17,3 +17,9 @@ docker compose up --build
 - [7. TF tensor input model flavors with MLflow Generic Model](./jobs/mlflow_model_generic_flavor_2.ipynb)
 - [8. Distibuted Training With Hyperparameter tuning using Hyperopt and MLflow](./jobs/distibuted_trainingAnd_params_tuning_with_mlflow.ipynb)
 - [9. Distibuted Training With Hyperparameter tuning and Generic Model Flavors](./jobs/ds_with_mlflow_flavor.ipynb)
+
+
+
+### References
+- [Models, Flavors, and PyFuncs in MLflow](https://mlflow.org/docs/latest/traditional-ml/creating-custom-pyfunc/part1-named-flavors/)
+- [Understanding PyFunc in MLflow](https://mlflow.org/docs/latest/traditional-ml/creating-custom-pyfunc/part2-pyfunc-components/)
