@@ -8,7 +8,7 @@ x-spark-common: &spark-common
   volumes:
     - ./jobs:/opt/bitnami/spark/jobs
   networks:
-    - ths-deepfaro
+    - myatkaung
 
 
 services:
@@ -52,7 +52,7 @@ services:
     volumes:
       - ./jobs:/app/jobs
     networks:
-      - ths-deepfaro
+      - myatkaung
 
 
   mlflow-server:
@@ -61,7 +61,7 @@ services:
     ports:
         - "8888:8888"
     networks:
-    - ths-deepfaro
+    - myatkaung
 
 networks:
-  ths-deepfaro:
+  myatkaung:
